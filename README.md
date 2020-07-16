@@ -3,6 +3,9 @@ Carbon 2185 Character Sheet
 Based on sheet by Ladrop
 
 Adv/Dis prompt added
+
 Sneak attack prompt
+
 Additional weapon slots
-Area to place exploits/abilities
+
+Changed resources, ammo and career to repeatable sections.
