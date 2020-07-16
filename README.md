@@ -1,4 +1,8 @@
 # Carbon-2185
-Revised Carbon 2185 Character Sheet For Roll20
+Carbon 2185 Character Sheet
+Based on sheet by Ladrop
 
-Adv/Dis prompt added, as well as sneak attack. Additional weapon slots as well as an area to place exploits/abilities.
+Adv/Dis prompt added
+Sneak attack prompt
+Additional weapon slots
+Area to place exploits/abilities
