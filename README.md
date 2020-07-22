@@ -8,4 +8,6 @@ Sneak attack prompt
 
 Additional weapon slots
 
-Changed resources, ammo and career to repeatable sections.
+Changed resources, ammo and career to repeatable sections
+
+Added basic & upper blood toxicity limits
